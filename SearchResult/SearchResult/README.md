@@ -24,3 +24,4 @@ Take clone of repository
 Check if any pod dependecies are missing than run 'pod install' command in terminal with project address.
 Run project on any simulator
 
+
